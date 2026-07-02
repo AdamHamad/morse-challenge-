@@ -1,0 +1,16 @@
+{
+  "name": "morse-scout-challenge",
+  "version": "1.0.0",
+  "description": "School Morse Code Scout Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.1.0",
+    "pg": "^8.11.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
